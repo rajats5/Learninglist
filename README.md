@@ -1,6 +1,6 @@
-## It is my reading lists and notes
+## It is my learning plan and notes
 
- Here are some book lists and notes.
+ Here are some notes.
  You can see them in Issues.
 
 #### Datastructure-and-Algorithm
