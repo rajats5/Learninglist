@@ -40,3 +40,6 @@
 
 #### 随时记录
 * [Record at any time](https://github.com/Gaotianhe/Readinglist/labels/Record%20at%20any%20time)
+
+#### 概统
+* [概率论与数理统计](https://github.com/Gaotianhe/Learninglist/labels/%E6%A6%82%E7%BB%9F)
