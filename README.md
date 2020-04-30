@@ -4,22 +4,19 @@
  You can see them in Issues.
 
 #### Datastructure-and-Algorithm
-* [Algorithm](https://github.com/Gaotianhe/Readinglist/labels/Algorithm)
-* [Datastructure](https://github.com/Gaotianhe/Readinglist/labels/Datastructure)
+* [Datastructure-and-Algorithm](https://github.com/Gaotianhe/Readinglist/labels/Datastructure-and-Algorithm)
 
 #### Computer-Network
 * [Computer-Network](https://github.com/Gaotianhe/Readinglist/labels/Computer-Network)
 
 #### Operating-System
-* [Linux](https://github.com/Gaotianhe/Readinglist/labels/Linux)
-* [Win10](https://github.com/Gaotianhe/Readinglist/labels/Win10)
+* [Operating-System](https://github.com/Gaotianhe/Readinglist/labels/Operating-System)
 
 #### Design-Patterns
 * [Design-Patterns](https://github.com/Gaotianhe/Readinglist/labels/Design-Patterns)
 
 #### ProgramLanguage
 * [Python](https://github.com/Gaotianhe/Readinglist/labels/Python)
-* [JavaScript](https://github.com/Gaotianhe/Readinglist/labels/JavaScript)
 * [Web](https://github.com/Gaotianhe/Readinglist/labels/Web)
 
 #### ProgramTools
