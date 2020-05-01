@@ -13,6 +13,7 @@
 * [Operating-System](https://github.com/Gaotianhe/Readinglist/labels/Operating-System)
 
 #### Design-Patterns
+
 * [Design-Patterns](https://github.com/Gaotianhe/Readinglist/labels/Design-Patterns)
 
 #### ProgramLanguage

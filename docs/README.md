@@ -1,7 +1,28 @@
-## It is my learning plan and notes
+## 我的学习计划和笔记
 
- Here are some notes.
- You can see them in Issues.
+```text
+.
+└── docs
+    └── Home    
+        └── README.md
+    ├── Program
+        ├── datastructure-and-algorithm.md
+        ├── computer-network.md   
+        ├── operating-system.md
+        ├── design-patterns.md
+        ├── programlanguage.md
+        ├── programtools.md
+        ├── git.md
+        └── work-and-my-need.md
+    ├── Life
+        ├── readingsth..md
+        └── record-at-any-time.md
+    ├── Major
+        ├── digital-electronic-technology.md
+        └── probability-theory-and-mathematical-statistics.md
+    ├── Tools
+        └── efficiencytools.md
+```
 
 #### Datastructure-and-Algorithm
 * [Datastructure-and-Algorithm](https://github.com/Gaotianhe/Readinglist/labels/Datastructure-and-Algorithm)
@@ -10,6 +31,7 @@
 * [Computer-Network](https://github.com/Gaotianhe/Readinglist/labels/Computer-Network)
 
 #### Operating-System
+
 * [Operating-System](https://github.com/Gaotianhe/Readinglist/labels/Operating-System)
 
 #### Design-Patterns

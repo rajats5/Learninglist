@@ -9,11 +9,24 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <nav>
+    <a href="#/Program/">Program</a>
+    <a href="#/Life/">Life</a>
+    <a href="#/Major/">Major</a>
+    <a href="#/Tools/">Tools</a>
+  </nav>
+  <div id="app">Please wait...</div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: '一大加贝',
+      repo: 'https://github.com/Gaotianhe/Learninglist',
+      loadSidebar: true,
+      subMaxLevel: 6,
+      el: '#app',
+      auto2top: false,
+      maxLevel: 4,
+      loadNavbar: true, //custom markdown-based navigation file
+      coverpage: false  // 是否开启封面
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
