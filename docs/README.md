@@ -1,5 +1,7 @@
 ## 我的学习计划和笔记
 
+> Study hard, work hard, enjoy it!
+
 ```text
 .
 └── docs
