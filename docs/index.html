@@ -14,57 +14,92 @@
   <div id="app">Please wait...</div>
   <script>
     window.$docsify = {
-      //name: '一大加贝',
+      name: '一大加贝',
       repo: 'https://github.com/Gaotianhe/Learninglist',
-      loadSidebar: true,
+      auto2top: true,
+      coverpage: true,  // 是否开启封面
+      loadSidebar: true, // 加载导航栏
+      maxLevel: 4,
+      subMaxLevel: 2,
+      search: {
+        paths: 'auto',
+        placeholder: '🔍 Type to search ',
+        noData: '😞 No Results! ',
+        depth: 6
+      },
+      pagination: {
+        previousText: 'PREVIOUS',
+        nextText: 'NEXT',
+        crossChapter: true
+      },
+      plugins: [
+        function(hook, vm) {
+          
+          hook.beforeEach(function(html) {
+            var url =
+              'https://github.com/Gaotianhe/Learninglist/blob/master/docs/' +
+              vm.route.file;
+            var editHtml = '[📝 EDIT DOCUMENT](' + url + ')\n';
+
+            return (
+              editHtml +
+              html +
+              '\n----\n' +
+              'Last modified 05/01 16:43' +
+              editHtml
+            );
+          });
+
+
+          var footer = [
+            '<hr/>',
+            '<footer>',
+            '<span><a href="https://github.com/Gaotianhe">一大加贝</a> &copy;2020.</span>',
+            '<span>Proudly published with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
+            '</footer>'
+          ].join('');
+          hook.afterEach(function(html) {
+            return html + footer;
+          });
+
+          hook.doneEach(function() {
+            var label, domObj, main, divEle, gitalk;
+            label = vm.route.path.split("/").pop();
+            domObj = Docsify.dom;
+            main = domObj.getNode("#main");
+            
+            Array.apply(
+              null,
+              document.querySelectorAll("div.gitalk-container")
+            ).forEach(function(ele) {
+              ele.remove();
+            });
+
+            divEle = domObj.create("div");
+            divEle.id = "gitalk-container-" + label;
+            divEle.className = "gitalk-container";
+            divEle.style = "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
+            domObj.appendTo(domObj.find(".content"), divEle);
+            gitalk = new Gitalk(
+              Object.assign(gitalkConfig, { id: !label ? "home" : label })
+            );
+            gitalk.render("gitalk-container-" + label);
+          })
+        }
+      ],
       autoHeader: true,
       hideSidebar: false,
-      subMaxLevel: 2,
-      auto2top: true,
-      maxLevel: 4,
+      
+      
+      
       loadNavbar: true, //custom markdown-based navigation file
-      coverpage: false,  // 是否开启封面
-      logo: '/_media/icon.svg',
-      basePath:
-        'https://github.com/Gaotianhe/Learninglist/wiki',
-      search: 'auto', // default
-      search : [
-        '/',            // => /README.md
-        '/Progran/*',    // => /Program/README.md
-        '/Life/*',       // => /Life/README.md
-        '/Major/*',      // => /Major/README.md
-        '/Tools/*',      // => /Tools/README.md
-      ],
-
+      
+      // basePath:                     //这个以后再弄
+      //   'https://github.com/Gaotianhe/Learninglist/wiki',
       // complete configuration parameters
-      search: {
-        maxAge: 86400000, // Expiration time, the default one day
-        paths: [], // or 'auto'
-        placeholder: 'Type to search',
-
-        // Localization
-        placeholder: {
-          '/': 'Type to search'
-        },
-
-        noData: 'No Results!:joy:',
-
-        // Localization
-        noData: {
-          '/': 'No Results😜'
-        },
-
-        // Headline depth, 1 - 6
-        depth: 6,
-
-        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
-
-        // To avoid search index collision
-        // between multiple websites under the same domain
-        namespace: '',
-        },
-        themeColor: '#3F51B5',
-    }
+      
+      themeColor: '#3F51B5',
+    };
   </script>
   <!-- <script src="//unpkg.com/docsify/lib/docsify.min.js"></script> -->
   <!-- <script src="//unpkg.com/docsify-edit-on-github/index.js"></script> -->
