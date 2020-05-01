@@ -2,6 +2,7 @@
 
  Here are some notes.
  You can see them in Issues.
+ 你还可以通过链接：[Home - Document](https://www.yidajiabei.xyz/Learninglist/#/) 查看结构化文档
 
 #### Datastructure-and-Algorithm
 * [Datastructure-and-Algorithm](https://github.com/Gaotianhe/Readinglist/labels/Datastructure-and-Algorithm)
