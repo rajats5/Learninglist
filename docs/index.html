@@ -8,29 +8,70 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
+
+
 <body>
-  <!-- <nav>
-    <a href="#/Program/">Program</a>
-    <a href="#/Life/">Life</a>
-    <a href="#/Major/">Major</a>
-    <a href="#/Tools/">Tools</a>
-  </nav> -->
   <div id="app">Please wait...</div>
   <script>
     window.$docsify = {
-      name: '一大加贝',
+      //name: '一大加贝',
       repo: 'https://github.com/Gaotianhe/Learninglist',
       loadSidebar: true,
-      subMaxLevel: 6,
-      el: '#app',
+      autoHeader: true,
+      hideSidebar: false,
+      subMaxLevel: 2,
       auto2top: true,
       maxLevel: 4,
       loadNavbar: true, //custom markdown-based navigation file
-      coverpage: false  // 是否开启封面
+      coverpage: false,  // 是否开启封面
+      logo: '/_media/icon.svg',
+      basePath:
+        'https://github.com/Gaotianhe/Learninglist/wiki',
+      search: 'auto', // default
+      search : [
+        '/',            // => /README.md
+        '/Progran/*',    // => /Program/README.md
+        '/Life/*',       // => /Life/README.md
+        '/Major/*',      // => /Major/README.md
+        '/Tools/*',      // => /Tools/README.md
+      ],
+
+      // complete configuration parameters
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: [], // or 'auto'
+        placeholder: 'Type to search',
+
+        // Localization
+        placeholder: {
+          '/': 'Type to search'
+        },
+
+        noData: 'No Results!:joy:',
+
+        // Localization
+        noData: {
+          '/': 'No Results😜'
+        },
+
+        // Headline depth, 1 - 6
+        depth: 6,
+
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+
+        // To avoid search index collision
+        // between multiple websites under the same domain
+        namespace: '',
+        },
+        themeColor: '#3F51B5',
     }
   </script>
   <!-- <script src="//unpkg.com/docsify/lib/docsify.min.js"></script> -->
+  <!-- <script src="//unpkg.com/docsify-edit-on-github/index.js"></script> -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
