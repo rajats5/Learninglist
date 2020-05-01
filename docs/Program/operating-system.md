@@ -1,4 +1,4 @@
-# 操作系统
+# [操作系统](https://github.com/Gaotianhe/Learninglist/labels/Operating-System)
 
 1. [Win10 - CPU使用率和环境变量格式修改](https://github.com/Gaotianhe/Learninglist/issues/14)
 2. [Linux - Linux下tar命令解压到指定目录](https://github.com/Gaotianhe/Learninglist/issues/7)

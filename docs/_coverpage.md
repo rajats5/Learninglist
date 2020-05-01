@@ -17,4 +17,4 @@
 [Get Started](README.md)
 
 
-![背景](_media/2bg.png)
+![背景](_media/bg.png)

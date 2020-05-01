@@ -69,7 +69,20 @@
       //   'https://github.com/Gaotianhe/Learninglist/wiki',
       // complete configuration parameters
       mergeNavbar: true,
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      formatUpdated: function(time) {
+        return time;
+      },
+      topMargin: 30, // default: 0
       themeColor: '#3F51B5',
+      notFoundPage: true,
+      notFoundPage: 'my404.md',
+      count:{
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
+      }
     };
   </script>
   <!-- <script src="//unpkg.com/docsify/lib/docsify.min.js"></script> -->
@@ -79,5 +92,16 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-python.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <!-- Theme: Defaults -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css"> -->
+  <!-- Theme: Simple -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
+  <!-- Theme: Simple Dark -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"> -->
+
+
 </body>
 </html>

@@ -1,6 +1,6 @@
 # 编程语言
 
-## Python
+## [Python](https://github.com/Gaotianhe/Learninglist/labels/Python)
 
 1. [完全卸载 python](https://github.com/Gaotianhe/Learninglist/issues/25)
 2. [python pip 工具无法使用的问题](https://github.com/Gaotianhe/Learninglist/issues/24)
@@ -8,7 +8,7 @@
 
 
 
-## Web
+## [Web](https://github.com/Gaotianhe/Learninglist/labels/Web)
 
 1. [How to fix Google Chrome connection errors](https://github.com/Gaotianhe/Learninglist/issues/26)
 2. [JavaScript - 改变 id 属性无法执行](https://github.com/Gaotianhe/Learninglist/issues/23)
