@@ -5,3 +5,4 @@
 3. [Linux - CentOS源码编译安装Nginix（等待补充）](https://github.com/Gaotianhe/Learninglist/issues/6)
 4. [Linux - 在Ubuntu18.04（阿里轻量应用服务器）上装nginx](https://github.com/Gaotianhe/Learninglist/issues/5)
 5. [Linux - 在Linux安装Reslio Sync文件传递软件](https://github.com/Gaotianhe/Learninglist/issues/4)
+6. [Linux - apt-get: command not found](https://github.com/Gaotianhe/Learninglist/issues/32)
