@@ -14,3 +14,4 @@
 2. [JavaScript - 改变 id 属性无法执行](https://github.com/Gaotianhe/Learninglist/issues/23)
 3. [Web - 一个网页快照网站](https://github.com/Gaotianhe/Learninglist/issues/9)
 4. [docsify应用 - 无法放大网页图片](https://github.com/Gaotianhe/Learninglist/issues/31)
+5. [svg在firefox和safari或chrome中的显示差异](https://github.com/Gaotianhe/Learninglist/issues/35)
