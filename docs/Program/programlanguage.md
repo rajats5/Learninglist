@@ -5,7 +5,7 @@
 1. [完全卸载 python](https://github.com/Gaotianhe/Learninglist/issues/25)
 2. [python pip 工具无法使用的问题](https://github.com/Gaotianhe/Learninglist/issues/24)
 3. [Python 和 pip 镜像 + 安装dlib遇到的坑 + 学习bs4](https://github.com/Gaotianhe/Learninglist/issues/13)
-
+4. [Python - virtualenv deploy](https://github.com/Gaotianhe/Learninglist/issues/38)
 
 
 ## [Web](https://github.com/Gaotianhe/Learninglist/labels/Web)
