@@ -16,3 +16,8 @@
 3. [Web - 一个网页快照网站](https://github.com/Gaotianhe/Learninglist/issues/9)
 4. [docsify应用 - 无法放大网页图片](https://github.com/Gaotianhe/Learninglist/issues/31)
 5. [svg在firefox和safari或chrome中的显示差异](https://github.com/Gaotianhe/Learninglist/issues/35)
+
+
+## [Java](https://github.com/Gaotianhe/Learninglist/labels/Java)
+
+1. [Java - 基础语法](https://github.com/Gaotianhe/Learninglist/issues/43)
