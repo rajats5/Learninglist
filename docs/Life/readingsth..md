@@ -4,7 +4,7 @@
 
 1. [读《时间之书：余世存说二十四节气》](https://github.com/Gaotianhe/Learninglist/issues/1)
 2. [读《寂静的春天》](https://github.com/Gaotianhe/Learninglist/issues/46)
-
+3. [读《哈姆雷特》](https://github.com/Gaotianhe/Learninglist/issues/47)
 
 
 ## [Article](https://github.com/Gaotianhe/Learninglist/labels/Article)
