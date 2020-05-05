@@ -3,6 +3,7 @@
 ## [Book](https://github.com/Gaotianhe/Learninglist/labels/Book)
 
 1. [读《时间之书：余世存说二十四节气》](https://github.com/Gaotianhe/Learninglist/issues/1)
+2. [读《寂静的春天》](https://github.com/Gaotianhe/Learninglist/issues/46)
 
 
 
