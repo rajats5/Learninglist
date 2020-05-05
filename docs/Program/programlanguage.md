@@ -9,6 +9,9 @@
 5. [Python for beginners](https://github.com/Gaotianhe/Learninglist/issues/41)
 
 
+## [Hugo](https://github.com/Gaotianhe/Learninglist/labels/Hugo)
+1. [Hugo - Hugo-theme-meme配置多语言](https://github.com/Gaotianhe/Learninglist/issues/44)
+2. [Hugo - deploy.sh 自动部署到 GitHub](https://github.com/Gaotianhe/Learninglist/issues/34)
 ## [Web](https://github.com/Gaotianhe/Learninglist/labels/Web)
 
 1. [How to fix Google Chrome connection errors](https://github.com/Gaotianhe/Learninglist/issues/26)
