@@ -15,6 +15,8 @@
 1. [Hugo - Hugo-theme-meme配置多语言](https://github.com/Gaotianhe/Learninglist/issues/44)
 2. [Hugo - deploy.sh 自动部署到 GitHub](https://github.com/Gaotianhe/Learninglist/issues/34)
 3. [Hugo - 添加脚注](https://github.com/Gaotianhe/Learninglist/issues/50)
+4. [Hugo - markdown添加换行符](https://github.com/Gaotianhe/Learninglist/issues/51)
+5. [Hugo - Android phone chrome browser multilingual icon cannot be displayed](https://github.com/Gaotianhe/Learninglist/issues/52)
 
 
 ## [Web](https://github.com/Gaotianhe/Learninglist/labels/Web)
