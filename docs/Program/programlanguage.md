@@ -31,3 +31,4 @@
 ## [Java](https://github.com/Gaotianhe/Learninglist/labels/Java)
 
 1. [Java - 基础语法](https://github.com/Gaotianhe/Learninglist/issues/43)
+2. [Java - 对象和类](https://github.com/Gaotianhe/Learninglist/issues/53)
