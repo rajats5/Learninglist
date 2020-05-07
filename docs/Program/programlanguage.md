@@ -21,6 +21,11 @@
 7. [Hugo - picture in the center](https://github.com/Gaotianhe/Learninglist/issues/55)
 
 
+## [Hexo](https://github.com/Gaotianhe/Learninglist/labels/Hexo)
+
+1. [Hexo - hexo本地渲染一切正常，传到github上js,css404更换主题无法解决](https://github.com/Gaotianhe/Learninglist/issues/56)
+
+
 ## [Web](https://github.com/Gaotianhe/Learninglist/labels/Web)
 
 1. [How to fix Google Chrome connection errors](https://github.com/Gaotianhe/Learninglist/issues/26)
