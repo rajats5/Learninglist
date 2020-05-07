@@ -18,6 +18,7 @@
 4. [Hugo - markdown添加换行符](https://github.com/Gaotianhe/Learninglist/issues/51)
 5. [Hugo - Android phone chrome browser multilingual icon cannot be displayed](https://github.com/Gaotianhe/Learninglist/issues/52)
 6. [Hugo - problems with not a Hugo extended version](https://github.com/Gaotianhe/Learninglist/issues/54)
+7. [Hugo - picture in the center](https://github.com/Gaotianhe/Learninglist/issues/55)
 
 
 ## [Web](https://github.com/Gaotianhe/Learninglist/labels/Web)
