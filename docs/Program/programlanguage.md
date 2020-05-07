@@ -39,3 +39,4 @@
 
 1. [Java - 基础语法](https://github.com/Gaotianhe/Learninglist/issues/43)
 2. [Java - 对象和类](https://github.com/Gaotianhe/Learninglist/issues/53)
+3. [Java - 练习](https://github.com/Gaotianhe/Learninglist/issues/58)
