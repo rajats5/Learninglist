@@ -8,3 +8,4 @@
 6. [Linux - apt-get: command not found](https://github.com/Gaotianhe/Learninglist/issues/32)
 7. [Docker - 使用docker部署IPFS节点](https://github.com/Gaotianhe/Learninglist/issues/33)
 8. [Docker - docker安装Ubuntu](https://github.com/Gaotianhe/Learninglist/issues/36)
+9. [Vbox - 动态分配空间压缩空间大小](https://github.com/Gaotianhe/Learninglist/issues/57)
