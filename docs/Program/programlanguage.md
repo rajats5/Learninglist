@@ -40,3 +40,8 @@
 1. [Java - 基础语法](https://github.com/Gaotianhe/Learninglist/issues/43)
 2. [Java - 对象和类](https://github.com/Gaotianhe/Learninglist/issues/53)
 3. [Java - 练习](https://github.com/Gaotianhe/Learninglist/issues/58)
+
+
+## [English](https://github.com/Gaotianhe/Learninglist/labels/English)
+
+1. [English - Words, Expressions and Sentences](https://github.com/Gaotianhe/Learninglist/issues/59)
