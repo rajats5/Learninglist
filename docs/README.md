@@ -34,4 +34,3 @@
 
 #### Git
 * [Git](https://github.com/Gaotianhe/Readinglist/labels/Git)
-* [GitHub](https://github.com/Gaotianhe/Readinglist/labels/GitHub)
