@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Learninglist</title>
-  <link rel="icon" href="_media/favicon.ico">
+  <link rel="icon" href="favicon.ico">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="keywords" content="doc,docs,documentation,github,github-pages">
   <meta name="description" content="A Learninglist Notes">
@@ -30,8 +30,7 @@
       name: '一大加贝',
       repo: 'https://github.com/Gaotianhe/Learninglist',
       auto2top: true,
-      coverpage: false,  // 是否开启封面
-      loadSidebar: true, // 加载导航栏
+      loadSidebar: false, // 加载导航栏
       maxLevel: 4,
       subMaxLevel: 2,
       search: {
@@ -39,11 +38,6 @@
         placeholder: '🔍 Type to search ',
         noData: '😞 No Results! ',
         depth: 6
-      },
-      pagination: {
-        previousText: 'PREVIOUS',
-        nextText: 'NEXT',
-        crossChapter: true
       },
       darkMode: {
         light: {
@@ -82,8 +76,6 @@
         }
       ],      
       loadNavbar: false, //custom markdown-based navigation file
-      onlyCover: false,
-      mergeNavbar: true,
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       formatUpdated: function(time) {
         return time;
