@@ -10,7 +10,7 @@
 4. [Python - virtualenv deploy](https://github.com/Gaotianhe/Learninglist/issues/38)
 5. [Python for beginners](https://github.com/Gaotianhe/Learninglist/issues/41)
 
-## [数据结构和算法](https://github.com/Gaotianhe/Learninglist/labels/Datastructure-and-Algorithm)
+## 数据结构和算法
 
 1. [算法 - 如何高效地做题](https://github.com/Gaotianhe/Learninglist/issues/18)
 2. [读《算法笔记》 - 基本数据类型](https://github.com/Gaotianhe/Learninglist/issues/49)
