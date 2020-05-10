@@ -1,6 +1,6 @@
 
 * [Home](/)
-* [Program](/Program/)
+* Program
 
   * [Datastructure and Algorithm](/Program/datastructure-and-algorithm.md)
   * [Computer Network](/Program/computer-network.md)
