@@ -1,6 +1,3 @@
-# 编程语言
-
-
 ## [Python](https://github.com/Gaotianhe/Learninglist/labels/Python)
 
 1. [完全卸载 python](https://github.com/Gaotianhe/Learninglist/issues/25)
@@ -10,7 +7,7 @@
 5. [Python for beginners](https://github.com/Gaotianhe/Learninglist/issues/41)
 
 
-## [Hugo](https://github.com/Gaotianhe/Learninglist/labels/Hugo)
+## Hugo
 
 1. [Hugo - Hugo-theme-meme配置多语言](https://github.com/Gaotianhe/Learninglist/issues/44)
 2. [Hugo - deploy.sh 自动部署到 GitHub](https://github.com/Gaotianhe/Learninglist/issues/34)
@@ -21,12 +18,12 @@
 7. [Hugo - picture in the center](https://github.com/Gaotianhe/Learninglist/issues/55)
 
 
-## [Hexo](https://github.com/Gaotianhe/Learninglist/labels/Hexo)
+## Hexo
 
 1. [Hexo - hexo本地渲染一切正常，传到github上js,css404更换主题无法解决](https://github.com/Gaotianhe/Learninglist/issues/56)
 
 
-## [Web](https://github.com/Gaotianhe/Learninglist/labels/Web)
+## Web
 
 1. [How to fix Google Chrome connection errors](https://github.com/Gaotianhe/Learninglist/issues/26)
 2. [JavaScript - 改变 id 属性无法执行](https://github.com/Gaotianhe/Learninglist/issues/23)
@@ -35,13 +32,13 @@
 5. [svg在firefox和safari或chrome中的显示差异](https://github.com/Gaotianhe/Learninglist/issues/35)
 
 
-## [Java](https://github.com/Gaotianhe/Learninglist/labels/Java)
+## Java
 
 1. [Java - 基础语法](https://github.com/Gaotianhe/Learninglist/issues/43)
 2. [Java - 对象和类](https://github.com/Gaotianhe/Learninglist/issues/53)
 3. [Java - 练习](https://github.com/Gaotianhe/Learninglist/issues/58)
 
 
-## [English](https://github.com/Gaotianhe/Learninglist/labels/English)
+## English
 
 1. [English - Words, Expressions and Sentences](https://github.com/Gaotianhe/Learninglist/issues/59)
