@@ -30,3 +30,7 @@
 7. [Docker - docker安装Ubuntu](https://github.com/Gaotianhe/Learninglist/issues/36)
 8. [Vbox - 动态分配空间压缩空间大小](https://github.com/Gaotianhe/Learninglist/issues/57)
 9. [Win10 - CPU使用率和环境变量格式修改](https://github.com/Gaotianhe/Learninglist/issues/14)
+
+## 计算机网络
+
+1. [计算机网络 - How to fix Google Chrome connection errors](https://github.com/Gaotianhe/Learninglist/issues/26)
