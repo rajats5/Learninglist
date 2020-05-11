@@ -1,4 +1,4 @@
-## Plans and notes
+## 笔记
 
 > Study hard, work hard, enjoy it!
 
