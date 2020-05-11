@@ -4,11 +4,12 @@
 
 ## Python
 
-1. [完全卸载 python](https://github.com/Gaotianhe/Learninglist/issues/25)
-2. [python pip 工具无法使用的问题](https://github.com/Gaotianhe/Learninglist/issues/24)
-3. [Python 和 pip 镜像 + 安装dlib遇到的坑 + 学习bs4](https://github.com/Gaotianhe/Learninglist/issues/13)
-4. [Python - virtualenv deploy](https://github.com/Gaotianhe/Learninglist/issues/38)
-5. [Python for beginners](https://github.com/Gaotianhe/Learninglist/issues/41)
+1. [Python - 学习Python遇到的英文单词、短语和句子](https://github.com/Gaotianhe/Learninglist/issues/61)
+2. [完全卸载 python](https://github.com/Gaotianhe/Learninglist/issues/25)
+3. [python pip 工具无法使用的问题](https://github.com/Gaotianhe/Learninglist/issues/24)
+4. [Python 和 pip 镜像 + 安装dlib遇到的坑 + 学习bs4](https://github.com/Gaotianhe/Learninglist/issues/13)
+5. [Python - virtualenv deploy](https://github.com/Gaotianhe/Learninglist/issues/38)
+6. [Python for beginners](https://github.com/Gaotianhe/Learninglist/issues/41)
 
 ## 数据结构和算法
 
